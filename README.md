@@ -12,10 +12,10 @@ interviews, using genuinely dirty/real datasets — not pre-cleaned Kaggle sets.
 5. Give a data-backed business recommendation
 6. Report a data quality summary (% of data that was trustworthy)
 
-## 🛠 Tools Used Across Series
+##  Tools Used Across Series
 Excel (PivotTables, Charts) · SQL · Python (Pandas) · Power BI
 
-## 📈 Why this series
+##  Why this series
 Most "clean" datasets don't reflect what real data analyst work looks like. This
 series intentionally uses unclean, inconsistent, real datasets to practice the skill
 that matters most in interviews and on the job: **turning messy data into a
