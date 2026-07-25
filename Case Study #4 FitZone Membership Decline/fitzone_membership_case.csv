@@ -1,0 +1,721 @@
+Month,City,Plan,Channel,New_Signups,Churn_Rate,Avg_Satisfaction_Score,Avg_Classes_Attended,Active_Trainer_Count
+2023-01,Mumbai,Basic,Online Signup,265,0.067,4.13,6.4,14
+2023-01,Mumbai,Basic,Walk-in,217,0.043,4.52,8.8,10
+2023-01,Mumbai,Premium,Online Signup,175,0.046,4.32,6.3,8
+2023-01,Mumbai,Premium,Walk-in,146,0.056,4.33,6.2,11
+2023-01,Mumbai,Elite,Online Signup,82,0.055,4.23,7.7,9
+2023-01,Mumbai,Elite,Walk-in,63,0.067,4.53,8.8,14
+2023-01,Delhi,Basic,Online Signup,272,0.059,4.53,9.6,11
+2023-01,Delhi,Basic,Walk-in,203,0.042,4.15,6.4,10
+2023-01,Delhi,Premium,Online Signup,170,0.048,4.41,10.4,9
+2023-01,Delhi,Premium,Walk-in,140,0.048,4.14,6.7,10
+2023-01,Delhi,Elite,Online Signup,70,0.043,4.57,8.7,11
+2023-01,Delhi,Elite,Walk-in,62,0.052,4.18,7.1,12
+2023-01,Bangalore,Basic,Online Signup,242,0.045,4.13,8.3,13
+2023-01,Bangalore,Basic,Walk-in,217,0.052,4.31,8.8,11
+2023-01,Bangalore,Premium,Online Signup,157,0.052,4.11,7.2,14
+2023-01,Bangalore,Premium,Walk-in,130,0.06,4.42,8.6,8
+2023-01,Bangalore,Elite,Online Signup,70,0.065,4.42,8.9,10
+2023-01,Bangalore,Elite,Walk-in,54,0.053,4.33,7.6,11
+2023-01,Pune,Basic,Online Signup,193,0.057,4.32,10.0,14
+2023-01,Pune,Basic,Walk-in,152,0.042,4.16,8.7,13
+2023-01,Pune,Premium,Online Signup,121,0.07,4.55,8.8,13
+2023-01,Pune,Premium,Walk-in,106,0.042,4.15,7.2,8
+2023-01,Pune,Elite,Online Signup,53,0.049,4.18,10.1,8
+2023-01,Pune,Elite,Walk-in,44,0.041,4.22,8.6,14
+2023-01,Hyderabad,Basic,Online Signup,199,0.049,4.36,7.2,13
+2023-01,Hyderabad,Basic,Walk-in,161,0.066,4.46,7.5,9
+2023-01,Hyderabad,Premium,Online Signup,138,0.07,4.44,9.6,9
+2023-01,Hyderabad,Premium,Walk-in,110,0.067,4.52,8.3,12
+2023-01,Hyderabad,Elite,Online Signup,64,0.052,4.52,10.3,9
+2023-01,Hyderabad,Elite,Walk-in,45,0.06,4.22,9.9,10
+2023-02,Mumbai,Basic,Online Signup,357,0.054,4.13,9.6,13
+2023-02,Mumbai,Basic,Walk-in,260,0.056,4.16,7.6,12
+2023-02,Mumbai,Premium,Online Signup,230,0.068,4.5,7.3,10
+2023-02,Mumbai,Premium,Walk-in,201,0.064,4.45,9.4,13
+2023-02,Mumbai,Elite,Online Signup,99,0.056,4.26,6.7,11
+2023-02,Mumbai,Elite,Walk-in,83,0.051,4.36,8.5,13
+2023-02,Delhi,Basic,Online Signup,333,0.048,4.18,9.9,9
+2023-02,Delhi,Basic,Walk-in,265,0.055,4.37,6.9,14
+2023-02,Delhi,Premium,Online Signup,211,0.059,4.51,10.8,10
+2023-02,Delhi,Premium,Walk-in,177,0.057,4.19,8.2,12
+2023-02,Delhi,Elite,Online Signup,98,0.061,4.37,10.7,10
+2023-02,Delhi,Elite,Walk-in,72,0.052,4.58,9.5,10
+2023-02,Bangalore,Basic,Online Signup,299,0.04,4.4,9.9,12
+2023-02,Bangalore,Basic,Walk-in,242,0.068,4.43,10.2,11
+2023-02,Bangalore,Premium,Online Signup,216,0.059,4.33,7.8,8
+2023-02,Bangalore,Premium,Walk-in,162,0.059,4.16,9.2,11
+2023-02,Bangalore,Elite,Online Signup,91,0.046,4.37,9.0,12
+2023-02,Bangalore,Elite,Walk-in,77,0.067,4.2,10.9,8
+2023-02,Pune,Basic,Online Signup,255,0.062,4.35,8.8,9
+2023-02,Pune,Basic,Walk-in,205,0.04,4.56,7.2,10
+2023-02,Pune,Premium,Online Signup,155,0.047,4.47,7.9,13
+2023-02,Pune,Premium,Walk-in,134,0.065,4.46,8.6,8
+2023-02,Pune,Elite,Online Signup,66,0.068,4.15,8.4,9
+2023-02,Pune,Elite,Walk-in,57,0.065,4.16,9.1,9
+2023-02,Hyderabad,Basic,Online Signup,254,0.057,4.26,8.8,13
+2023-02,Hyderabad,Basic,Walk-in,216,0.042,4.47,7.0,12
+2023-02,Hyderabad,Premium,Online Signup,150,0.057,4.5,8.0,12
+2023-02,Hyderabad,Premium,Walk-in,140,0.059,4.47,9.0,8
+2023-02,Hyderabad,Elite,Online Signup,78,0.053,4.24,7.6,12
+2023-02,Hyderabad,Elite,Walk-in,58,0.053,4.51,10.5,10
+2023-03,Mumbai,Basic,Online Signup,343,0.066,4.37,7.7,8
+2023-03,Mumbai,Basic,Walk-in,278,0.063,4.14,8.0,10
+2023-03,Mumbai,Premium,Online Signup,224,0.041,4.11,7.6,11
+2023-03,Mumbai,Premium,Walk-in,199,0.049,4.35,9.9,12
+2023-03,Mumbai,Elite,Online Signup,105,0.041,4.43,9.7,8
+2023-03,Mumbai,Elite,Walk-in,85,0.049,4.2,7.6,9
+2023-03,Delhi,Basic,Online Signup,330,0.05,4.57,7.9,10
+2023-03,Delhi,Basic,Walk-in,271,0.057,4.55,7.5,12
+2023-03,Delhi,Premium,Online Signup,209,0.058,4.22,8.2,8
+2023-03,Delhi,Premium,Walk-in,175,0.06,4.18,6.5,12
+2023-03,Delhi,Elite,Online Signup,93,0.068,4.18,6.1,11
+2023-03,Delhi,Elite,Walk-in,74,0.069,4.51,10.6,10
+2023-03,Bangalore,Basic,Online Signup,306,0.055,4.37,9.0,8
+2023-03,Bangalore,Basic,Walk-in,266,0.063,4.42,7.1,14
+2023-03,Bangalore,Premium,Online Signup,216,0.051,4.13,10.5,9
+2023-03,Bangalore,Premium,Walk-in,154,0.067,4.31,8.3,11
+2023-03,Bangalore,Elite,Online Signup,92,0.053,4.21,7.8,12
+2023-03,Bangalore,Elite,Walk-in,73,0.064,4.32,7.2,10
+2023-03,Pune,Basic,Online Signup,248,0.049,4.55,8.5,12
+2023-03,Pune,Basic,Walk-in,197,0.066,4.1,7.8,12
+2023-03,Pune,Premium,Online Signup,164,0.053,4.51,10.5,8
+2023-03,Pune,Premium,Walk-in,130,0.051,4.4,6.6,12
+2023-03,Pune,Elite,Online Signup,70,0.04,4.57,8.6,9
+2023-03,Pune,Elite,Walk-in,60,0.05,4.27,7.8,13
+2023-03,Hyderabad,Basic,Online Signup,265,0.068,4.28,10.9,12
+2023-03,Hyderabad,Basic,Walk-in,198,0.053,4.46,10.3,13
+2023-03,Hyderabad,Premium,Online Signup,170,0.046,4.15,10.2,11
+2023-03,Hyderabad,Premium,Walk-in,137,0.058,4.25,9.2,14
+2023-03,Hyderabad,Elite,Online Signup,71,0.049,4.12,7.1,14
+2023-03,Hyderabad,Elite,Walk-in,64,0.065,4.49,7.2,14
+2023-04,Mumbai,Basic,Online Signup,335,0.056,4.41,10.5,11
+2023-04,Mumbai,Basic,Walk-in,274,0.04,4.23,9.3,11
+2023-04,Mumbai,Premium,Online Signup,240,0.057,4.49,7.1,9
+2023-04,Mumbai,Premium,Walk-in,181,0.054,4.34,9.4,12
+2023-04,Mumbai,Elite,Online Signup,99,0.044,4.26,9.5,12
+2023-04,Mumbai,Elite,Walk-in,80,0.042,4.4,8.0,14
+2023-04,Delhi,Basic,Online Signup,321,0.061,4.15,6.2,9
+2023-04,Delhi,Basic,Walk-in,261,0.055,4.19,7.0,12
+2023-04,Delhi,Premium,Online Signup,225,0.043,4.49,7.5,14
+2023-04,Delhi,Premium,Walk-in,173,0.069,4.54,9.0,10
+2023-04,Delhi,Elite,Online Signup,90,0.045,4.18,10.7,12
+2023-04,Delhi,Elite,Walk-in,78,0.044,4.29,9.1,13
+2023-04,Bangalore,Basic,Online Signup,309,0.05,4.44,9.5,11
+2023-04,Bangalore,Basic,Walk-in,256,0.067,4.16,10.1,14
+2023-04,Bangalore,Premium,Online Signup,197,0.053,4.12,9.7,14
+2023-04,Bangalore,Premium,Walk-in,170,0.049,4.43,6.2,13
+2023-04,Bangalore,Elite,Online Signup,87,0.053,4.5,8.8,9
+2023-04,Bangalore,Elite,Walk-in,78,0.052,4.29,9.2,14
+2023-04,Pune,Basic,Online Signup,251,0.07,4.33,7.2,8
+2023-04,Pune,Basic,Walk-in,199,0.058,4.47,10.7,12
+2023-04,Pune,Premium,Online Signup,171,0.05,4.55,6.5,12
+2023-04,Pune,Premium,Walk-in,133,0.056,4.18,8.2,14
+2023-04,Pune,Elite,Online Signup,76,0.053,4.31,9.6,12
+2023-04,Pune,Elite,Walk-in,58,0.058,4.29,8.9,11
+2023-04,Hyderabad,Basic,Online Signup,246,0.069,4.19,8.5,13
+2023-04,Hyderabad,Basic,Walk-in,211,0.067,4.2,9.4,8
+2023-04,Hyderabad,Premium,Online Signup,176,0.053,4.47,8.5,11
+2023-04,Hyderabad,Premium,Walk-in,145,0.069,4.46,10.4,8
+2023-04,Hyderabad,Elite,Online Signup,81,0.043,4.54,9.3,8
+2023-04,Hyderabad,Elite,Walk-in,64,0.052,4.55,6.6,11
+2023-05,Mumbai,Basic,Online Signup,336,0.064,4.41,6.4,10
+2023-05,Mumbai,Basic,Walk-in,282,0.046,4.33,9.6,8
+2023-05,Mumbai,Premium,Online Signup,229,0.051,4.2,10.8,13
+2023-05,Mumbai,Premium,Walk-in,192,0.053,4.32,9.6,9
+2023-05,Mumbai,Elite,Online Signup,105,0.064,4.18,9.9,9
+2023-05,Mumbai,Elite,Walk-in,92,0.059,4.29,7.2,9
+2023-05,Delhi,Basic,Online Signup,328,0.043,4.58,6.8,8
+2023-05,Delhi,Basic,Walk-in,270,0.045,4.52,8.0,10
+2023-05,Delhi,Premium,Online Signup,241,0.069,4.28,9.3,9
+2023-05,Delhi,Premium,Walk-in,184,0.067,4.56,9.3,12
+2023-05,Delhi,Elite,Online Signup,101,0.05,4.38,6.8,9
+2023-05,Delhi,Elite,Walk-in,81,0.04,4.31,6.4,14
+2023-05,Bangalore,Basic,Online Signup,344,0.067,4.12,7.7,9
+2023-05,Bangalore,Basic,Walk-in,263,0.059,4.52,6.8,10
+2023-05,Bangalore,Premium,Online Signup,202,0.054,4.12,6.6,10
+2023-05,Bangalore,Premium,Walk-in,179,0.046,4.33,9.7,11
+2023-05,Bangalore,Elite,Online Signup,94,0.058,4.46,7.1,8
+2023-05,Bangalore,Elite,Walk-in,73,0.064,4.44,9.5,14
+2023-05,Pune,Basic,Online Signup,236,0.065,4.15,10.7,10
+2023-05,Pune,Basic,Walk-in,207,0.069,4.41,7.2,8
+2023-05,Pune,Premium,Online Signup,169,0.047,4.42,7.1,8
+2023-05,Pune,Premium,Walk-in,122,0.042,4.21,9.0,13
+2023-05,Pune,Elite,Online Signup,66,0.045,4.53,8.7,9
+2023-05,Pune,Elite,Walk-in,55,0.053,4.59,9.9,9
+2023-05,Hyderabad,Basic,Online Signup,268,0.064,4.59,9.3,9
+2023-05,Hyderabad,Basic,Walk-in,214,0.061,4.11,7.4,10
+2023-05,Hyderabad,Premium,Online Signup,164,0.041,4.49,7.4,11
+2023-05,Hyderabad,Premium,Walk-in,153,0.05,4.47,9.8,11
+2023-05,Hyderabad,Elite,Online Signup,75,0.065,4.58,9.2,10
+2023-05,Hyderabad,Elite,Walk-in,64,0.048,4.54,11.0,12
+2023-06,Mumbai,Basic,Online Signup,370,0.066,4.12,9.7,10
+2023-06,Mumbai,Basic,Walk-in,289,0.042,4.37,10.4,10
+2023-06,Mumbai,Premium,Online Signup,241,0.048,4.23,10.7,9
+2023-06,Mumbai,Premium,Walk-in,203,0.056,4.17,8.6,11
+2023-06,Mumbai,Elite,Online Signup,107,0.065,4.27,7.9,11
+2023-06,Mumbai,Elite,Walk-in,82,0.041,4.34,7.0,12
+2023-06,Delhi,Basic,Online Signup,334,0.065,4.49,7.5,11
+2023-06,Delhi,Basic,Walk-in,273,0.04,4.36,9.2,11
+2023-06,Delhi,Premium,Online Signup,211,0.051,4.55,9.1,12
+2023-06,Delhi,Premium,Walk-in,177,0.043,4.22,8.1,13
+2023-06,Delhi,Elite,Online Signup,92,0.043,4.39,8.8,14
+2023-06,Delhi,Elite,Walk-in,81,0.051,4.16,10.1,11
+2023-06,Bangalore,Basic,Online Signup,318,0.068,4.53,7.4,8
+2023-06,Bangalore,Basic,Walk-in,278,0.06,4.48,6.2,11
+2023-06,Bangalore,Premium,Online Signup,216,0.042,4.3,6.8,13
+2023-06,Bangalore,Premium,Walk-in,163,0.044,4.51,10.5,14
+2023-06,Bangalore,Elite,Online Signup,90,0.047,4.41,8.1,9
+2023-06,Bangalore,Elite,Walk-in,71,0.042,4.26,7.1,14
+2023-06,Pune,Basic,Online Signup,244,0.047,4.1,10.6,10
+2023-06,Pune,Basic,Walk-in,211,0.047,4.22,8.7,9
+2023-06,Pune,Premium,Online Signup,176,0.058,4.38,9.7,12
+2023-06,Pune,Premium,Walk-in,133,0.062,4.54,9.6,11
+2023-06,Pune,Elite,Online Signup,71,0.06,4.12,9.6,8
+2023-06,Pune,Elite,Walk-in,57,0.041,4.37,6.5,8
+2023-06,Hyderabad,Basic,Online Signup,283,0.068,4.44,9.4,9
+2023-06,Hyderabad,Basic,Walk-in,214,0.051,4.2,7.6,11
+2023-06,Hyderabad,Premium,Online Signup,181,0.052,4.44,10.2,14
+2023-06,Hyderabad,Premium,Walk-in,141,0.047,4.16,6.9,9
+2023-06,Hyderabad,Elite,Online Signup,82,0.066,4.43,9.7,14
+2023-06,Hyderabad,Elite,Walk-in,68,0.055,4.22,6.9,10
+2023-07,Mumbai,Basic,Online Signup,378,0.049,4.34,6.9,9
+2023-07,Mumbai,Basic,Walk-in,299,0.052,4.16,7.2,13
+2023-07,Mumbai,Premium,Online Signup,239,0.047,4.16,8.4,14
+2023-07,Mumbai,Premium,Walk-in,200,0.065,4.32,8.8,13
+2023-07,Mumbai,Elite,Online Signup,100,0.066,4.51,7.2,9
+2023-07,Mumbai,Elite,Walk-in,92,0.043,4.59,6.3,8
+2023-07,Delhi,Basic,Online Signup,326,0.045,4.39,6.7,13
+2023-07,Delhi,Basic,Walk-in,259,0.061,4.42,10.0,10
+2023-07,Delhi,Premium,Online Signup,210,0.062,4.32,8.9,14
+2023-07,Delhi,Premium,Walk-in,178,0.042,4.55,9.0,14
+2023-07,Delhi,Elite,Online Signup,96,0.059,4.18,10.0,8
+2023-07,Delhi,Elite,Walk-in,77,0.054,4.54,8.2,13
+2023-07,Bangalore,Basic,Online Signup,325,0.049,4.56,10.1,14
+2023-07,Bangalore,Basic,Walk-in,254,0.068,4.17,10.1,10
+2023-07,Bangalore,Premium,Online Signup,221,0.042,4.38,9.6,11
+2023-07,Bangalore,Premium,Walk-in,173,0.063,4.41,8.4,13
+2023-07,Bangalore,Elite,Online Signup,86,0.053,4.37,7.9,14
+2023-07,Bangalore,Elite,Walk-in,73,0.057,4.21,9.7,11
+2023-07,Pune,Basic,Online Signup,235,0.048,4.27,8.4,12
+2023-07,Pune,Basic,Walk-in,207,0.056,4.59,7.9,8
+2023-07,Pune,Premium,Online Signup,169,0.061,4.1,6.1,10
+2023-07,Pune,Premium,Walk-in,138,0.05,4.53,7.7,11
+2023-07,Pune,Elite,Online Signup,73,0.06,4.4,8.0,14
+2023-07,Pune,Elite,Walk-in,57,0.051,4.48,6.7,9
+2023-07,Hyderabad,Basic,Online Signup,260,0.049,4.21,7.2,12
+2023-07,Hyderabad,Basic,Walk-in,216,0.058,4.46,7.1,8
+2023-07,Hyderabad,Premium,Online Signup,184,0.06,4.36,7.7,14
+2023-07,Hyderabad,Premium,Walk-in,146,0.065,4.12,6.4,11
+2023-07,Hyderabad,Elite,Online Signup,79,0.063,4.12,7.6,12
+2023-07,Hyderabad,Elite,Walk-in,63,0.069,4.23,8.9,10
+2023-08,Mumbai,Basic,Online Signup,352,0.042,4.27,10.7,11
+2023-08,Mumbai,Basic,Walk-in,304,0.061,4.15,6.8,13
+2023-08,Mumbai,Premium,Online Signup,251,0.055,4.5,6.1,14
+2023-08,Mumbai,Premium,Walk-in,195,0.063,4.46,9.4,8
+2023-08,Mumbai,Elite,Online Signup,104,0.055,4.48,9.2,10
+2023-08,Mumbai,Elite,Walk-in,83,0.045,4.6,8.1,13
+2023-08,Delhi,Basic,Online Signup,368,0.044,4.57,6.0,8
+2023-08,Delhi,Basic,Walk-in,266,0.059,4.18,9.3,8
+2023-08,Delhi,Premium,Online Signup,228,0.053,4.48,9.1,9
+2023-08,Delhi,Premium,Walk-in,173,0.041,4.46,6.7,10
+2023-08,Delhi,Elite,Online Signup,97,0.059,4.57,10.5,8
+2023-08,Delhi,Elite,Walk-in,76,0.044,4.31,8.3,12
+2023-08,Bangalore,Basic,Online Signup,323,0.055,4.23,8.9,13
+2023-08,Bangalore,Basic,Walk-in,273,0.07,4.31,8.1,9
+2023-08,Bangalore,Premium,Online Signup,212,0.069,4.27,7.0,9
+2023-08,Bangalore,Premium,Walk-in,163,0.062,4.44,6.6,14
+2023-08,Bangalore,Elite,Online Signup,92,0.049,4.54,7.7,8
+2023-08,Bangalore,Elite,Walk-in,81,0.063,4.36,6.8,12
+2023-08,Pune,Basic,Online Signup,246,0.049,4.23,10.4,11
+2023-08,Pune,Basic,Walk-in,199,0.044,4.13,6.2,9
+2023-08,Pune,Premium,Online Signup,170,0.061,4.47,8.8,13
+2023-08,Pune,Premium,Walk-in,139,0.063,4.16,8.1,13
+2023-08,Pune,Elite,Online Signup,73,0.052,4.27,9.1,14
+2023-08,Pune,Elite,Walk-in,58,0.061,4.15,6.7,8
+2023-08,Hyderabad,Basic,Online Signup,250,0.042,4.44,8.5,9
+2023-08,Hyderabad,Basic,Walk-in,233,0.07,4.48,8.7,10
+2023-08,Hyderabad,Premium,Online Signup,162,0.06,4.21,9.8,9
+2023-08,Hyderabad,Premium,Walk-in,147,0.05,4.44,6.3,14
+2023-08,Hyderabad,Elite,Online Signup,79,0.053,4.14,8.9,11
+2023-08,Hyderabad,Elite,Walk-in,66,0.066,4.2,8.8,12
+2023-09,Mumbai,Basic,Online Signup,375,0.056,4.54,9.8,13
+2023-09,Mumbai,Basic,Walk-in,318,0.062,4.27,9.9,9
+2023-09,Mumbai,Premium,Online Signup,254,0.06,4.29,7.6,11
+2023-09,Mumbai,Premium,Walk-in,198,0.069,4.31,10.6,8
+2023-09,Mumbai,Elite,Online Signup,108,0.049,4.12,8.3,10
+2023-09,Mumbai,Elite,Walk-in,93,0.05,4.25,8.0,10
+2023-09,Delhi,Basic,Online Signup,373,0.058,4.34,9.0,11
+2023-09,Delhi,Basic,Walk-in,289,0.052,4.56,10.1,9
+2023-09,Delhi,Premium,Online Signup,222,0.067,4.45,6.1,14
+2023-09,Delhi,Premium,Walk-in,184,0.044,4.36,7.5,9
+2023-09,Delhi,Elite,Online Signup,109,0.042,4.26,8.6,13
+2023-09,Delhi,Elite,Walk-in,85,0.043,4.32,6.6,12
+2023-09,Bangalore,Basic,Online Signup,317,0.05,4.12,6.8,9
+2023-09,Bangalore,Basic,Walk-in,257,0.065,4.37,8.7,12
+2023-09,Bangalore,Premium,Online Signup,215,0.05,4.38,10.7,14
+2023-09,Bangalore,Premium,Walk-in,180,0.041,4.5,6.1,12
+2023-09,Bangalore,Elite,Online Signup,94,0.056,4.17,9.5,10
+2023-09,Bangalore,Elite,Walk-in,80,0.063,4.16,10.4,10
+2023-09,Pune,Basic,Online Signup,247,0.065,4.28,6.1,12
+2023-09,Pune,Basic,Walk-in,209,0.053,4.5,8.3,12
+2023-09,Pune,Premium,Online Signup,166,0.062,4.18,10.4,14
+2023-09,Pune,Premium,Walk-in,135,0.046,4.12,7.8,13
+2023-09,Pune,Elite,Online Signup,72,0.06,4.39,9.8,9
+2023-09,Pune,Elite,Walk-in,62,0.06,4.56,7.8,11
+2023-09,Hyderabad,Basic,Online Signup,265,0.063,4.26,6.3,11
+2023-09,Hyderabad,Basic,Walk-in,212,0.07,4.36,8.1,8
+2023-09,Hyderabad,Premium,Online Signup,168,0.06,4.57,9.0,14
+2023-09,Hyderabad,Premium,Walk-in,136,0.041,4.17,9.3,8
+2023-09,Hyderabad,Elite,Online Signup,75,0.047,4.13,8.4,12
+2023-09,Hyderabad,Elite,Walk-in,58,0.062,4.58,7.9,8
+2023-10,Mumbai,Basic,Online Signup,382,0.049,4.44,7.7,12
+2023-10,Mumbai,Basic,Walk-in,299,0.041,4.54,8.6,11
+2023-10,Mumbai,Premium,Online Signup,243,0.057,4.54,10.9,9
+2023-10,Mumbai,Premium,Walk-in,186,0.057,4.12,7.2,12
+2023-10,Mumbai,Elite,Online Signup,117,0.064,4.39,9.2,8
+2023-10,Mumbai,Elite,Walk-in,88,0.066,4.16,8.5,13
+2023-10,Delhi,Basic,Online Signup,350,0.056,4.16,10.5,14
+2023-10,Delhi,Basic,Walk-in,279,0.05,4.39,9.0,13
+2023-10,Delhi,Premium,Online Signup,226,0.065,4.2,6.4,9
+2023-10,Delhi,Premium,Walk-in,198,0.046,4.37,9.5,9
+2023-10,Delhi,Elite,Online Signup,108,0.041,4.53,7.1,12
+2023-10,Delhi,Elite,Walk-in,84,0.048,4.16,6.5,10
+2023-10,Bangalore,Basic,Online Signup,327,0.06,4.37,10.5,11
+2023-10,Bangalore,Basic,Walk-in,264,0.05,4.55,6.6,8
+2023-10,Bangalore,Premium,Online Signup,219,0.06,4.22,6.7,10
+2023-10,Bangalore,Premium,Walk-in,182,0.044,4.19,8.7,14
+2023-10,Bangalore,Elite,Online Signup,94,0.048,4.51,9.9,13
+2023-10,Bangalore,Elite,Walk-in,72,0.044,4.24,10.1,9
+2023-10,Pune,Basic,Online Signup,249,0.063,4.46,9.2,12
+2023-10,Pune,Basic,Walk-in,214,0.057,4.16,8.8,11
+2023-10,Pune,Premium,Online Signup,169,0.06,4.36,8.8,12
+2023-10,Pune,Premium,Walk-in,132,0.055,4.22,7.3,10
+2023-10,Pune,Elite,Online Signup,75,0.042,4.56,9.5,13
+2023-10,Pune,Elite,Walk-in,59,0.058,4.47,8.3,12
+2023-10,Hyderabad,Basic,Online Signup,283,0.046,4.56,7.4,10
+2023-10,Hyderabad,Basic,Walk-in,226,0.066,4.25,8.2,8
+2023-10,Hyderabad,Premium,Online Signup,175,0.064,4.41,7.5,8
+2023-10,Hyderabad,Premium,Walk-in,146,0.041,4.55,7.6,14
+2023-10,Hyderabad,Elite,Online Signup,81,0.069,4.36,8.7,13
+2023-10,Hyderabad,Elite,Walk-in,69,0.04,4.15,8.1,10
+2023-11,Mumbai,Basic,Online Signup,372,0.055,4.27,9.0,10
+2023-11,Mumbai,Basic,Walk-in,300,0.063,4.59,7.9,14
+2023-11,Mumbai,Premium,Online Signup,245,0.044,4.17,9.3,8
+2023-11,Mumbai,Premium,Walk-in,204,0.052,4.19,9.7,12
+2023-11,Mumbai,Elite,Online Signup,110,0.053,4.43,6.6,14
+2023-11,Mumbai,Elite,Walk-in,92,0.049,4.49,10.9,12
+2023-11,Delhi,Basic,Online Signup,334,0.062,4.35,6.3,13
+2023-11,Delhi,Basic,Walk-in,270,0.07,4.42,8.6,8
+2023-11,Delhi,Premium,Online Signup,229,0.069,4.4,10.6,12
+2023-11,Delhi,Premium,Walk-in,190,0.059,4.38,7.1,11
+2023-11,Delhi,Elite,Online Signup,99,0.067,4.44,6.3,10
+2023-11,Delhi,Elite,Walk-in,81,0.055,4.44,10.2,12
+2023-11,Bangalore,Basic,Online Signup,345,0.046,4.44,10.4,8
+2023-11,Bangalore,Basic,Walk-in,267,0.044,4.49,11.0,13
+2023-11,Bangalore,Premium,Online Signup,221,0.05,4.12,10.3,9
+2023-11,Bangalore,Premium,Walk-in,193,0.064,4.58,7.6,9
+2023-11,Bangalore,Elite,Online Signup,95,0.05,4.42,10.9,11
+2023-11,Bangalore,Elite,Walk-in,78,0.067,4.25,6.1,13
+2023-11,Pune,Basic,Online Signup,258,0.049,4.23,10.7,8
+2023-11,Pune,Basic,Walk-in,216,0.057,4.18,10.0,9
+2023-11,Pune,Premium,Online Signup,167,0.056,4.57,10.5,8
+2023-11,Pune,Premium,Walk-in,145,0.063,4.27,10.5,9
+2023-11,Pune,Elite,Online Signup,71,0.054,4.19,9.1,13
+2023-11,Pune,Elite,Walk-in,61,0.047,4.31,10.1,12
+2023-11,Hyderabad,Basic,Online Signup,275,0.046,4.34,7.8,14
+2023-11,Hyderabad,Basic,Walk-in,224,0.067,4.57,7.0,8
+2023-11,Hyderabad,Premium,Online Signup,186,0.054,4.54,9.6,13
+2023-11,Hyderabad,Premium,Walk-in,144,0.044,4.56,6.9,11
+2023-11,Hyderabad,Elite,Online Signup,79,0.067,4.17,9.5,8
+2023-11,Hyderabad,Elite,Walk-in,60,0.063,4.46,8.0,13
+2023-12,Mumbai,Basic,Online Signup,409,0.043,4.5,6.6,9
+2023-12,Mumbai,Basic,Walk-in,360,0.051,4.38,6.3,12
+2023-12,Mumbai,Premium,Online Signup,286,0.052,4.41,8.1,12
+2023-12,Mumbai,Premium,Walk-in,229,0.053,4.11,8.0,14
+2023-12,Mumbai,Elite,Online Signup,118,0.042,4.35,9.0,9
+2023-12,Mumbai,Elite,Walk-in,97,0.051,4.19,8.6,9
+2023-12,Delhi,Basic,Online Signup,419,0.064,4.38,10.6,8
+2023-12,Delhi,Basic,Walk-in,329,0.058,4.48,7.1,9
+2023-12,Delhi,Premium,Online Signup,264,0.061,4.18,7.2,13
+2023-12,Delhi,Premium,Walk-in,210,0.047,4.23,8.1,11
+2023-12,Delhi,Elite,Online Signup,113,0.061,4.59,10.6,12
+2023-12,Delhi,Elite,Walk-in,90,0.045,4.56,9.8,12
+2023-12,Bangalore,Basic,Online Signup,364,0.044,4.43,10.2,9
+2023-12,Bangalore,Basic,Walk-in,320,0.044,4.23,9.6,8
+2023-12,Bangalore,Premium,Online Signup,237,0.055,4.28,10.7,8
+2023-12,Bangalore,Premium,Walk-in,201,0.044,4.13,8.1,9
+2023-12,Bangalore,Elite,Online Signup,110,0.044,4.6,7.6,14
+2023-12,Bangalore,Elite,Walk-in,89,0.043,4.43,10.5,9
+2023-12,Pune,Basic,Online Signup,278,0.042,4.34,8.3,11
+2023-12,Pune,Basic,Walk-in,234,0.069,4.37,6.1,11
+2023-12,Pune,Premium,Online Signup,187,0.061,4.45,6.1,11
+2023-12,Pune,Premium,Walk-in,163,0.043,4.14,9.6,13
+2023-12,Pune,Elite,Online Signup,83,0.067,4.4,8.5,10
+2023-12,Pune,Elite,Walk-in,69,0.06,4.24,9.1,13
+2023-12,Hyderabad,Basic,Online Signup,296,0.057,4.19,10.7,9
+2023-12,Hyderabad,Basic,Walk-in,236,0.042,4.14,10.1,9
+2023-12,Hyderabad,Premium,Online Signup,185,0.049,4.34,6.8,8
+2023-12,Hyderabad,Premium,Walk-in,155,0.059,4.2,7.8,10
+2023-12,Hyderabad,Elite,Online Signup,87,0.06,4.11,6.1,11
+2023-12,Hyderabad,Elite,Walk-in,73,0.06,4.32,6.8,11
+2024-01,Mumbai,Basic,Online Signup,290,0.067,4.58,8.6,10
+2024-01,Mumbai,Basic,Walk-in,243,0.058,4.39,6.4,12
+2024-01,Mumbai,Premium,Online Signup,177,0.06,4.46,8.8,14
+2024-01,Mumbai,Premium,Walk-in,156,0.052,4.38,7.4,10
+2024-01,Mumbai,Elite,Online Signup,85,0.04,4.15,10.5,9
+2024-01,Mumbai,Elite,Walk-in,72,0.053,4.47,9.5,9
+2024-01,Delhi,Basic,Online Signup,273,0.061,4.46,10.9,12
+2024-01,Delhi,Basic,Walk-in,225,0.065,4.57,7.2,10
+2024-01,Delhi,Premium,Online Signup,190,0.043,4.5,10.2,12
+2024-01,Delhi,Premium,Walk-in,153,0.067,4.23,6.9,9
+2024-01,Delhi,Elite,Online Signup,80,0.056,4.12,10.8,10
+2024-01,Delhi,Elite,Walk-in,62,0.052,4.52,9.9,8
+2024-01,Bangalore,Basic,Online Signup,265,0.062,4.51,7.9,12
+2024-01,Bangalore,Basic,Walk-in,203,0.049,4.4,6.4,12
+2024-01,Bangalore,Premium,Online Signup,161,0.04,4.54,7.0,8
+2024-01,Bangalore,Premium,Walk-in,139,0.049,4.4,10.3,14
+2024-01,Bangalore,Elite,Online Signup,75,0.059,4.2,8.0,8
+2024-01,Bangalore,Elite,Walk-in,61,0.06,4.18,6.0,9
+2024-01,Pune,Basic,Online Signup,209,0.054,4.43,10.5,11
+2024-01,Pune,Basic,Walk-in,163,0.058,4.37,10.5,10
+2024-01,Pune,Premium,Online Signup,140,0.052,4.59,10.1,9
+2024-01,Pune,Premium,Walk-in,114,0.046,4.53,6.9,12
+2024-01,Pune,Elite,Online Signup,57,0.042,4.11,9.0,8
+2024-01,Pune,Elite,Walk-in,50,0.067,4.27,7.1,14
+2024-01,Hyderabad,Basic,Online Signup,199,0.05,4.14,10.5,9
+2024-01,Hyderabad,Basic,Walk-in,188,0.05,4.3,9.9,9
+2024-01,Hyderabad,Premium,Online Signup,146,0.042,4.34,8.4,9
+2024-01,Hyderabad,Premium,Walk-in,115,0.069,4.48,6.4,9
+2024-01,Hyderabad,Elite,Online Signup,59,0.062,4.55,10.0,13
+2024-01,Hyderabad,Elite,Walk-in,55,0.056,4.26,9.4,10
+2024-02,Mumbai,Basic,Online Signup,393,0.062,4.46,9.8,12
+2024-02,Mumbai,Basic,Walk-in,322,0.049,4.48,6.5,14
+2024-02,Mumbai,Premium,Online Signup,262,0.054,4.53,10.1,11
+2024-02,Mumbai,Premium,Walk-in,200,0.044,4.37,8.9,10
+2024-02,Mumbai,Elite,Online Signup,112,0.055,4.35,6.0,9
+2024-02,Mumbai,Elite,Walk-in,88,0.042,4.31,7.9,13
+2024-02,Delhi,Basic,Online Signup,372,0.046,4.38,9.2,14
+2024-02,Delhi,Basic,Walk-in,284,0.046,4.42,8.8,10
+2024-02,Delhi,Premium,Online Signup,214,0.046,4.15,9.0,11
+2024-02,Delhi,Premium,Walk-in,199,0.069,4.24,10.1,10
+2024-02,Delhi,Elite,Online Signup,97,0.048,4.2,11.0,10
+2024-02,Delhi,Elite,Walk-in,83,0.059,4.27,6.3,12
+2024-02,Bangalore,Basic,Online Signup,344,0.065,4.38,8.4,12
+2024-02,Bangalore,Basic,Walk-in,257,0.04,4.48,8.9,13
+2024-02,Bangalore,Premium,Online Signup,225,0.054,4.47,9.6,14
+2024-02,Bangalore,Premium,Walk-in,179,0.059,4.47,10.0,8
+2024-02,Bangalore,Elite,Online Signup,91,0.056,4.13,9.4,9
+2024-02,Bangalore,Elite,Walk-in,80,0.042,4.36,9.8,10
+2024-02,Pune,Basic,Online Signup,267,0.056,4.25,6.5,11
+2024-02,Pune,Basic,Walk-in,221,0.048,4.41,7.2,13
+2024-02,Pune,Premium,Online Signup,169,0.068,4.58,9.9,11
+2024-02,Pune,Premium,Walk-in,145,0.045,4.34,10.0,8
+2024-02,Pune,Elite,Online Signup,73,0.065,4.18,7.9,10
+2024-02,Pune,Elite,Walk-in,63,0.054,4.41,9.0,12
+2024-02,Hyderabad,Basic,Online Signup,284,0.041,4.43,10.2,10
+2024-02,Hyderabad,Basic,Walk-in,226,0.043,4.5,7.7,13
+2024-02,Hyderabad,Premium,Online Signup,181,0.068,4.58,9.1,9
+2024-02,Hyderabad,Premium,Walk-in,145,0.053,4.32,9.8,8
+2024-02,Hyderabad,Elite,Online Signup,71,0.051,4.11,10.4,11
+2024-02,Hyderabad,Elite,Walk-in,67,0.052,4.34,8.3,10
+2024-03,Mumbai,Basic,Online Signup,370,0.057,4.49,9.6,13
+2024-03,Mumbai,Basic,Walk-in,325,0.051,4.48,8.4,11
+2024-03,Mumbai,Premium,Online Signup,238,0.066,4.57,8.1,13
+2024-03,Mumbai,Premium,Walk-in,203,0.043,4.39,7.8,10
+2024-03,Mumbai,Elite,Online Signup,118,0.041,4.21,7.4,12
+2024-03,Mumbai,Elite,Walk-in,99,0.046,4.16,10.6,11
+2024-03,Delhi,Basic,Online Signup,359,0.063,4.47,8.0,11
+2024-03,Delhi,Basic,Walk-in,287,0.051,4.53,9.6,11
+2024-03,Delhi,Premium,Online Signup,245,0.069,4.35,9.9,11
+2024-03,Delhi,Premium,Walk-in,198,0.063,4.55,6.8,14
+2024-03,Delhi,Elite,Online Signup,105,0.055,4.56,8.4,12
+2024-03,Delhi,Elite,Walk-in,84,0.063,4.59,10.3,9
+2024-03,Bangalore,Basic,Online Signup,344,0.069,4.45,6.5,10
+2024-03,Bangalore,Basic,Walk-in,276,0.062,4.31,10.2,12
+2024-03,Bangalore,Premium,Online Signup,222,0.049,4.12,10.4,10
+2024-03,Bangalore,Premium,Walk-in,187,0.041,4.59,10.6,14
+2024-03,Bangalore,Elite,Online Signup,99,0.063,4.29,9.8,11
+2024-03,Bangalore,Elite,Walk-in,77,0.04,4.16,6.1,8
+2024-03,Pune,Basic,Online Signup,269,0.043,4.52,6.8,11
+2024-03,Pune,Basic,Walk-in,218,0.062,4.54,6.0,13
+2024-03,Pune,Premium,Online Signup,174,0.062,4.49,10.1,11
+2024-03,Pune,Premium,Walk-in,150,0.061,4.42,6.6,14
+2024-03,Pune,Elite,Online Signup,75,0.056,4.26,8.2,13
+2024-03,Pune,Elite,Walk-in,64,0.067,4.56,9.0,13
+2024-03,Hyderabad,Basic,Online Signup,292,0.067,4.36,7.2,14
+2024-03,Hyderabad,Basic,Walk-in,227,0.059,4.46,8.6,14
+2024-03,Hyderabad,Premium,Online Signup,187,0.046,4.41,6.3,9
+2024-03,Hyderabad,Premium,Walk-in,146,0.064,4.11,7.3,13
+2024-03,Hyderabad,Elite,Online Signup,84,0.05,4.49,6.7,12
+2024-03,Hyderabad,Elite,Walk-in,62,0.061,4.23,7.2,13
+2024-04,Mumbai,Basic,Online Signup,376,0.046,4.58,8.3,10
+2024-04,Mumbai,Basic,Walk-in,310,0.044,4.39,6.0,10
+2024-04,Mumbai,Premium,Online Signup,258,0.047,4.45,10.5,13
+2024-04,Mumbai,Premium,Walk-in,193,0.053,4.52,6.9,13
+2024-04,Mumbai,Elite,Online Signup,110,0.063,4.51,10.7,11
+2024-04,Mumbai,Elite,Walk-in,93,0.054,4.26,7.5,13
+2024-04,Delhi,Basic,Online Signup,367,0.067,4.11,8.5,14
+2024-04,Delhi,Basic,Walk-in,298,0.062,4.38,7.3,14
+2024-04,Delhi,Premium,Online Signup,227,0.066,4.13,8.6,12
+2024-04,Delhi,Premium,Walk-in,189,0.052,4.27,9.1,9
+2024-04,Delhi,Elite,Online Signup,100,0.051,4.37,6.6,8
+2024-04,Delhi,Elite,Walk-in,85,0.059,4.2,8.6,10
+2024-04,Bangalore,Basic,Online Signup,354,0.062,4.29,9.8,10
+2024-04,Bangalore,Basic,Walk-in,284,0.07,4.18,10.1,11
+2024-04,Bangalore,Premium,Online Signup,230,0.042,4.13,6.5,9
+2024-04,Bangalore,Premium,Walk-in,186,0.045,4.44,10.2,14
+2024-04,Bangalore,Elite,Online Signup,102,0.07,4.15,9.7,12
+2024-04,Bangalore,Elite,Walk-in,44,0.191,3.52,3.7,5
+2024-04,Pune,Basic,Online Signup,272,0.068,4.26,10.4,8
+2024-04,Pune,Basic,Walk-in,234,0.066,4.43,6.8,10
+2024-04,Pune,Premium,Online Signup,178,0.054,4.29,10.8,9
+2024-04,Pune,Premium,Walk-in,148,0.062,4.4,8.9,11
+2024-04,Pune,Elite,Online Signup,81,0.058,4.43,9.4,11
+2024-04,Pune,Elite,Walk-in,64,0.045,4.39,10.9,11
+2024-04,Hyderabad,Basic,Online Signup,265,0.066,4.43,7.9,14
+2024-04,Hyderabad,Basic,Walk-in,220,0.046,4.48,10.3,14
+2024-04,Hyderabad,Premium,Online Signup,196,0.046,4.36,8.4,9
+2024-04,Hyderabad,Premium,Walk-in,149,0.066,4.43,7.6,12
+2024-04,Hyderabad,Elite,Online Signup,80,0.056,4.42,9.0,12
+2024-04,Hyderabad,Elite,Walk-in,64,0.05,4.54,7.2,10
+2024-05,Mumbai,Basic,Online Signup,395,0.066,4.52,6.0,13
+2024-05,Mumbai,Basic,Walk-in,337,0.069,4.36,9.3,8
+2024-05,Mumbai,Premium,Online Signup,244,0.047,4.41,9.8,10
+2024-05,Mumbai,Premium,Walk-in,224,0.062,4.11,10.5,14
+2024-05,Mumbai,Elite,Online Signup,106,0.064,4.4,9.7,9
+2024-05,Mumbai,Elite,Walk-in,98,0.051,4.32,10.1,8
+2024-05,Delhi,Basic,Online Signup,362,0.067,4.31,8.5,9
+2024-05,Delhi,Basic,Walk-in,304,0.068,4.5,6.4,12
+2024-05,Delhi,Premium,Online Signup,237,0.062,4.26,8.3,11
+2024-05,Delhi,Premium,Walk-in,190,0.049,4.16,7.4,11
+2024-05,Delhi,Elite,Online Signup,105,0.055,4.37,8.1,12
+2024-05,Delhi,Elite,Walk-in,87,0.069,4.53,7.9,11
+2024-05,Bangalore,Basic,Online Signup,344,0.046,4.57,8.6,12
+2024-05,Bangalore,Basic,Walk-in,275,0.051,4.55,9.9,12
+2024-05,Bangalore,Premium,Online Signup,225,0.052,4.48,6.5,13
+2024-05,Bangalore,Premium,Walk-in,177,0.05,4.43,7.5,10
+2024-05,Bangalore,Elite,Online Signup,107,0.057,4.55,8.9,12
+2024-05,Bangalore,Elite,Walk-in,51,0.145,3.46,4.5,3
+2024-05,Pune,Basic,Online Signup,256,0.052,4.17,7.9,10
+2024-05,Pune,Basic,Walk-in,236,0.049,4.33,10.9,12
+2024-05,Pune,Premium,Online Signup,176,0.051,4.47,6.2,9
+2024-05,Pune,Premium,Walk-in,138,0.051,4.43,6.3,9
+2024-05,Pune,Elite,Online Signup,79,0.053,4.45,6.0,12
+2024-05,Pune,Elite,Walk-in,67,0.061,4.51,7.1,14
+2024-05,Hyderabad,Basic,Online Signup,261,0.065,4.34,7.8,10
+2024-05,Hyderabad,Basic,Walk-in,233,0.065,4.35,6.8,14
+2024-05,Hyderabad,Premium,Online Signup,197,0.049,4.49,6.9,8
+2024-05,Hyderabad,Premium,Walk-in,161,0.042,4.12,7.2,14
+2024-05,Hyderabad,Elite,Online Signup,85,0.067,4.21,7.8,10
+2024-05,Hyderabad,Elite,Walk-in,65,0.044,4.16,9.1,13
+2024-06,Mumbai,Basic,Online Signup,370,0.068,4.35,9.1,12
+2024-06,Mumbai,Basic,Walk-in,311,0.049,4.36,7.6,14
+2024-06,Mumbai,Premium,Online Signup,252,0.061,4.37,9.8,9
+2024-06,Mumbai,Premium,Walk-in,208,0.068,4.23,7.7,13
+2024-06,Mumbai,Elite,Online Signup,109,0.04,4.15,10.2,11
+2024-06,Mumbai,Elite,Walk-in,92,0.067,4.24,7.5,14
+2024-06,Delhi,Basic,Online Signup,367,0.062,4.11,6.5,14
+2024-06,Delhi,Basic,Walk-in,299,0.051,4.34,9.7,10
+2024-06,Delhi,Premium,Online Signup,236,0.061,4.22,9.9,8
+2024-06,Delhi,Premium,Walk-in,200,0.049,4.6,7.7,10
+2024-06,Delhi,Elite,Online Signup,111,0.046,4.26,10.0,13
+2024-06,Delhi,Elite,Walk-in,81,0.049,4.53,6.3,9
+2024-06,Bangalore,Basic,Online Signup,345,0.047,4.29,7.9,10
+2024-06,Bangalore,Basic,Walk-in,284,0.055,4.1,8.9,10
+2024-06,Bangalore,Premium,Online Signup,247,0.067,4.55,9.4,9
+2024-06,Bangalore,Premium,Walk-in,196,0.042,4.31,8.3,9
+2024-06,Bangalore,Elite,Online Signup,107,0.057,4.23,7.7,12
+2024-06,Bangalore,Elite,Walk-in,48,0.184,3.65,3.7,4
+2024-06,Pune,Basic,Online Signup,268,0.063,4.22,8.5,13
+2024-06,Pune,Basic,Walk-in,216,0.059,4.18,8.0,11
+2024-06,Pune,Premium,Online Signup,192,0.068,4.42,8.9,14
+2024-06,Pune,Premium,Walk-in,141,0.051,4.52,11.0,8
+2024-06,Pune,Elite,Online Signup,82,0.05,4.58,10.9,9
+2024-06,Pune,Elite,Walk-in,65,0.05,4.59,6.1,14
+2024-06,Hyderabad,Basic,Online Signup,295,0.049,4.17,9.0,10
+2024-06,Hyderabad,Basic,Walk-in,241,0.046,4.54,9.4,12
+2024-06,Hyderabad,Premium,Online Signup,194,0.042,4.21,10.1,9
+2024-06,Hyderabad,Premium,Walk-in,148,0.047,4.57,10.9,14
+2024-06,Hyderabad,Elite,Online Signup,73,0.065,4.24,8.5,8
+2024-06,Hyderabad,Elite,Walk-in,65,0.047,4.53,6.7,13
+2024-07,Mumbai,Basic,Online Signup,418,0.059,4.54,6.7,12
+2024-07,Mumbai,Basic,Walk-in,319,0.051,4.59,7.8,8
+2024-07,Mumbai,Premium,Online Signup,268,0.062,4.12,8.9,10
+2024-07,Mumbai,Premium,Walk-in,214,0.051,4.11,6.4,11
+2024-07,Mumbai,Elite,Online Signup,113,0.066,4.36,10.4,10
+2024-07,Mumbai,Elite,Walk-in,92,0.059,4.47,9.4,14
+2024-07,Delhi,Basic,Online Signup,390,0.063,4.33,6.8,14
+2024-07,Delhi,Basic,Walk-in,282,0.046,4.47,9.3,14
+2024-07,Delhi,Premium,Online Signup,242,0.046,4.38,7.7,14
+2024-07,Delhi,Premium,Walk-in,188,0.062,4.47,7.1,11
+2024-07,Delhi,Elite,Online Signup,112,0.052,4.4,9.9,11
+2024-07,Delhi,Elite,Walk-in,88,0.05,4.44,9.4,9
+2024-07,Bangalore,Basic,Online Signup,338,0.053,4.17,8.2,13
+2024-07,Bangalore,Basic,Walk-in,286,0.054,4.2,8.7,9
+2024-07,Bangalore,Premium,Online Signup,219,0.054,4.26,9.6,9
+2024-07,Bangalore,Premium,Walk-in,199,0.067,4.37,11.0,10
+2024-07,Bangalore,Elite,Online Signup,99,0.045,4.34,7.4,11
+2024-07,Bangalore,Elite,Walk-in,46,0.16,3.51,4.8,5
+2024-07,Pune,Basic,Online Signup,265,0.054,4.54,9.4,10
+2024-07,Pune,Basic,Walk-in,224,0.06,4.55,8.0,10
+2024-07,Pune,Premium,Online Signup,178,0.052,4.2,8.0,9
+2024-07,Pune,Premium,Walk-in,144,0.046,4.19,6.5,10
+2024-07,Pune,Elite,Online Signup,80,0.048,4.58,7.8,8
+2024-07,Pune,Elite,Walk-in,68,0.042,4.56,10.8,14
+2024-07,Hyderabad,Basic,Online Signup,290,0.051,4.44,8.5,8
+2024-07,Hyderabad,Basic,Walk-in,236,0.064,4.52,7.2,14
+2024-07,Hyderabad,Premium,Online Signup,190,0.044,4.19,9.0,14
+2024-07,Hyderabad,Premium,Walk-in,157,0.044,4.3,6.8,11
+2024-07,Hyderabad,Elite,Online Signup,83,0.053,4.29,6.8,14
+2024-07,Hyderabad,Elite,Walk-in,69,0.068,4.58,7.6,10
+2024-08,Mumbai,Basic,Online Signup,412,0.051,4.41,7.5,11
+2024-08,Mumbai,Basic,Walk-in,332,0.042,4.26,9.7,12
+2024-08,Mumbai,Premium,Online Signup,252,0.049,4.42,7.6,11
+2024-08,Mumbai,Premium,Walk-in,230,0.052,4.51,7.9,11
+2024-08,Mumbai,Elite,Online Signup,120,0.046,4.3,10.5,9
+2024-08,Mumbai,Elite,Walk-in,93,0.066,4.17,10.4,9
+2024-08,Delhi,Basic,Online Signup,338,0.045,4.24,8.6,12
+2024-08,Delhi,Basic,Walk-in,312,0.058,4.57,10.5,8
+2024-08,Delhi,Premium,Online Signup,245,0.058,4.26,9.5,10
+2024-08,Delhi,Premium,Walk-in,206,0.069,4.56,6.2,9
+2024-08,Delhi,Elite,Online Signup,104,0.056,4.28,7.5,14
+2024-08,Delhi,Elite,Walk-in,86,0.058,4.3,7.5,10
+2024-08,Bangalore,Basic,Online Signup,363,0.06,4.11,10.4,12
+2024-08,Bangalore,Basic,Walk-in,282,0.068,4.6,7.8,11
+2024-08,Bangalore,Premium,Online Signup,243,0.058,4.31,7.9,11
+2024-08,Bangalore,Premium,Walk-in,192,0.065,4.28,6.5,9
+2024-08,Bangalore,Elite,Online Signup,97,0.067,4.47,6.8,14
+2024-08,Bangalore,Elite,Walk-in,51,0.188,3.4,3.1,4
+2024-08,Pune,Basic,Online Signup,285,0.047,4.52,10.3,14
+2024-08,Pune,Basic,Walk-in,222,0.069,4.37,10.2,11
+2024-08,Pune,Premium,Online Signup,186,0.068,4.33,10.6,14
+2024-08,Pune,Premium,Walk-in,159,0.051,4.19,8.6,13
+2024-08,Pune,Elite,Online Signup,78,0.05,4.32,10.3,11
+2024-08,Pune,Elite,Walk-in,61,0.043,4.29,7.2,10
+2024-08,Hyderabad,Basic,Online Signup,274,0.045,4.33,9.2,12
+2024-08,Hyderabad,Basic,Walk-in,227,0.049,4.33,7.5,10
+2024-08,Hyderabad,Premium,Online Signup,199,0.041,4.54,9.5,11
+2024-08,Hyderabad,Premium,Walk-in,153,0.07,4.32,7.7,13
+2024-08,Hyderabad,Elite,Online Signup,89,0.049,4.22,8.2,14
+2024-08,Hyderabad,Elite,Walk-in,67,0.053,4.52,10.9,11
+2024-09,Mumbai,Basic,Online Signup,389,0.067,4.47,10.4,9
+2024-09,Mumbai,Basic,Walk-in,310,0.066,4.56,10.8,8
+2024-09,Mumbai,Premium,Online Signup,279,0.059,4.58,7.7,14
+2024-09,Mumbai,Premium,Walk-in,227,0.047,4.24,6.0,8
+2024-09,Mumbai,Elite,Online Signup,110,0.051,4.11,8.9,10
+2024-09,Mumbai,Elite,Walk-in,95,0.054,4.41,6.8,13
+2024-09,Delhi,Basic,Online Signup,356,0.047,4.55,10.4,12
+2024-09,Delhi,Basic,Walk-in,307,0.043,4.53,8.9,12
+2024-09,Delhi,Premium,Online Signup,243,0.055,4.16,10.0,14
+2024-09,Delhi,Premium,Walk-in,198,0.069,4.23,10.4,11
+2024-09,Delhi,Elite,Online Signup,110,0.046,4.19,8.8,13
+2024-09,Delhi,Elite,Walk-in,85,0.052,4.27,8.2,11
+2024-09,Bangalore,Basic,Online Signup,360,0.068,4.44,6.6,14
+2024-09,Bangalore,Basic,Walk-in,286,0.061,4.45,9.9,8
+2024-09,Bangalore,Premium,Online Signup,237,0.052,4.2,8.4,10
+2024-09,Bangalore,Premium,Walk-in,199,0.056,4.19,10.5,12
+2024-09,Bangalore,Elite,Online Signup,115,0.043,4.42,10.2,9
+2024-09,Bangalore,Elite,Walk-in,50,0.162,3.67,3.6,3
+2024-09,Pune,Basic,Online Signup,255,0.069,4.24,9.4,12
+2024-09,Pune,Basic,Walk-in,230,0.044,4.4,7.2,8
+2024-09,Pune,Premium,Online Signup,193,0.062,4.22,6.3,8
+2024-09,Pune,Premium,Walk-in,147,0.045,4.23,10.9,8
+2024-09,Pune,Elite,Online Signup,78,0.067,4.1,10.4,8
+2024-09,Pune,Elite,Walk-in,69,0.056,4.3,10.0,12
+2024-09,Hyderabad,Basic,Online Signup,277,0.047,4.56,10.4,10
+2024-09,Hyderabad,Basic,Walk-in,239,0.063,4.3,8.8,10
+2024-09,Hyderabad,Premium,Online Signup,189,0.046,4.17,7.4,11
+2024-09,Hyderabad,Premium,Walk-in,156,0.065,4.47,10.9,14
+2024-09,Hyderabad,Elite,Online Signup,88,0.068,4.21,7.6,11
+2024-09,Hyderabad,Elite,Walk-in,67,0.055,4.31,6.5,8
+2024-10,Mumbai,Basic,Online Signup,395,0.043,4.53,8.0,10
+2024-10,Mumbai,Basic,Walk-in,336,0.068,4.37,8.9,10
+2024-10,Mumbai,Premium,Online Signup,269,0.062,4.15,9.9,12
+2024-10,Mumbai,Premium,Walk-in,214,0.047,4.32,6.3,12
+2024-10,Mumbai,Elite,Online Signup,121,0.068,4.39,9.5,14
+2024-10,Mumbai,Elite,Walk-in,96,0.063,4.36,8.6,14
+2024-10,Delhi,Basic,Online Signup,372,0.068,4.27,10.6,11
+2024-10,Delhi,Basic,Walk-in,294,0.063,4.3,6.8,10
+2024-10,Delhi,Premium,Online Signup,247,0.061,4.49,8.2,13
+2024-10,Delhi,Premium,Walk-in,191,0.063,4.55,8.2,8
+2024-10,Delhi,Elite,Online Signup,106,0.065,4.26,10.9,11
+2024-10,Delhi,Elite,Walk-in,89,0.043,4.52,6.1,11
+2024-10,Bangalore,Basic,Online Signup,382,0.054,4.39,9.1,12
+2024-10,Bangalore,Basic,Walk-in,267,0.069,4.13,9.9,8
+2024-10,Bangalore,Premium,Online Signup,236,0.058,4.53,9.0,13
+2024-10,Bangalore,Premium,Walk-in,183,0.044,4.31,9.1,12
+2024-10,Bangalore,Elite,Online Signup,105,0.064,4.46,8.8,14
+2024-10,Bangalore,Elite,Walk-in,51,0.172,3.33,3.2,4
+2024-10,Pune,Basic,Online Signup,266,0.055,4.51,8.8,11
+2024-10,Pune,Basic,Walk-in,231,0.045,4.22,10.2,13
+2024-10,Pune,Premium,Online Signup,178,0.054,4.25,6.3,10
+2024-10,Pune,Premium,Walk-in,152,0.055,4.22,9.7,13
+2024-10,Pune,Elite,Online Signup,83,0.048,4.48,8.7,8
+2024-10,Pune,Elite,Walk-in,68,0.066,4.52,9.9,13
+2024-10,Hyderabad,Basic,Online Signup,289,0.052,4.31,10.8,11
+2024-10,Hyderabad,Basic,Walk-in,238,0.064,4.53,9.4,14
+2024-10,Hyderabad,Premium,Online Signup,192,0.068,4.4,10.5,11
+2024-10,Hyderabad,Premium,Walk-in,162,0.05,4.5,10.0,9
+2024-10,Hyderabad,Elite,Online Signup,81,0.062,4.25,9.7,13
+2024-10,Hyderabad,Elite,Walk-in,69,0.043,4.53,8.6,9
+2024-11,Mumbai,Basic,Online Signup,401,0.051,4.43,7.7,14
+2024-11,Mumbai,Basic,Walk-in,316,0.059,4.41,10.5,12
+2024-11,Mumbai,Premium,Online Signup,271,0.055,4.34,7.9,14
+2024-11,Mumbai,Premium,Walk-in,213,0.044,4.17,6.7,10
+2024-11,Mumbai,Elite,Online Signup,125,0.059,4.11,8.9,12
+2024-11,Mumbai,Elite,Walk-in,99,0.047,4.39,7.9,8
+2024-11,Delhi,Basic,Online Signup,364,0.048,4.56,9.7,8
+2024-11,Delhi,Basic,Walk-in,308,0.064,4.48,10.6,13
+2024-11,Delhi,Premium,Online Signup,230,0.054,4.16,8.6,11
+2024-11,Delhi,Premium,Walk-in,187,0.065,4.2,10.2,10
+2024-11,Delhi,Elite,Online Signup,113,0.066,4.3,10.4,14
+2024-11,Delhi,Elite,Walk-in,87,0.056,4.32,8.3,13
+2024-11,Bangalore,Basic,Online Signup,371,0.069,4.48,9.8,11
+2024-11,Bangalore,Basic,Walk-in,287,0.064,4.37,8.8,8
+2024-11,Bangalore,Premium,Online Signup,257,0.057,4.48,6.8,9
+2024-11,Bangalore,Premium,Walk-in,196,0.054,4.58,6.2,14
+2024-11,Bangalore,Elite,Online Signup,107,0.06,4.25,6.2,8
+2024-11,Bangalore,Elite,Walk-in,50,0.141,3.52,3.6,4
+2024-11,Pune,Basic,Online Signup,299,0.063,4.5,6.9,13
+2024-11,Pune,Basic,Walk-in,220,0.068,4.37,6.4,10
+2024-11,Pune,Premium,Online Signup,184,0.048,4.51,9.6,12
+2024-11,Pune,Premium,Walk-in,148,0.044,4.1,8.5,14
+2024-11,Pune,Elite,Online Signup,85,0.044,4.59,10.9,9
+2024-11,Pune,Elite,Walk-in,68,0.063,4.14,9.5,10
+2024-11,Hyderabad,Basic,Online Signup,292,0.061,4.13,7.6,11
+2024-11,Hyderabad,Basic,Walk-in,234,0.055,4.27,7.0,13
+2024-11,Hyderabad,Premium,Online Signup,187,0.062,4.52,6.8,9
+2024-11,Hyderabad,Premium,Walk-in,148,0.062,4.57,6.7,10
+2024-11,Hyderabad,Elite,Online Signup,87,0.063,4.5,9.7,10
+2024-11,Hyderabad,Elite,Walk-in,67,0.069,4.27,8.4,12
+2024-12,Mumbai,Basic,Online Signup,454,0.058,4.11,8.5,8
+2024-12,Mumbai,Basic,Walk-in,359,0.059,4.38,10.3,12
+2024-12,Mumbai,Premium,Online Signup,313,0.052,4.4,10.7,14
+2024-12,Mumbai,Premium,Walk-in,244,0.059,4.23,7.2,11
+2024-12,Mumbai,Elite,Online Signup,122,0.059,4.45,11.0,12
+2024-12,Mumbai,Elite,Walk-in,110,0.057,4.43,7.6,11
+2024-12,Delhi,Basic,Online Signup,418,0.05,4.38,6.0,12
+2024-12,Delhi,Basic,Walk-in,343,0.05,4.28,10.0,11
+2024-12,Delhi,Premium,Online Signup,252,0.056,4.23,9.8,8
+2024-12,Delhi,Premium,Walk-in,233,0.061,4.55,8.5,11
+2024-12,Delhi,Elite,Online Signup,124,0.058,4.3,8.4,10
+2024-12,Delhi,Elite,Walk-in,99,0.07,4.42,8.1,10
+2024-12,Bangalore,Basic,Online Signup,408,0.067,4.28,7.9,9
+2024-12,Bangalore,Basic,Walk-in,340,0.059,4.44,9.5,11
+2024-12,Bangalore,Premium,Online Signup,278,0.042,4.12,7.6,13
+2024-12,Bangalore,Premium,Walk-in,204,0.05,4.24,7.0,8
+2024-12,Bangalore,Elite,Online Signup,116,0.052,4.33,9.3,8
+2024-12,Bangalore,Elite,Walk-in,54,0.15,3.55,4.3,3
+2024-12,Pune,Basic,Online Signup,313,0.053,4.2,10.4,9
+2024-12,Pune,Basic,Walk-in,247,0.05,4.33,7.4,14
+2024-12,Pune,Premium,Online Signup,204,0.049,4.33,9.9,12
+2024-12,Pune,Premium,Walk-in,185,0.055,4.31,10.1,11
+2024-12,Pune,Elite,Online Signup,93,0.053,4.49,10.4,12
+2024-12,Pune,Elite,Walk-in,76,0.043,4.38,8.4,10
+2024-12,Hyderabad,Basic,Online Signup,331,0.06,4.13,9.0,10
+2024-12,Hyderabad,Basic,Walk-in,275,0.046,4.44,9.7,9
+2024-12,Hyderabad,Premium,Online Signup,208,0.049,4.41,6.1,11
+2024-12,Hyderabad,Premium,Walk-in,192,0.046,4.12,10.2,11
+2024-12,Hyderabad,Elite,Online Signup,96,0.056,4.37,7.0,9
+2024-12,Hyderabad,Elite,Walk-in,75,0.066,4.15,10.9,8
